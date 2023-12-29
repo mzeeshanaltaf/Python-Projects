@@ -5,6 +5,7 @@ from playaudio import playaudio
 from gtts import gTTS
 import os
 
+# Constant and Globals
 BACKGROUND_COLOR = "#B1DDC6"
 FLIP_CARD_INTERVAL = 3000  # 3 secs
 current_card = {}
